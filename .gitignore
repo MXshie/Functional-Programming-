@@ -1,0 +1,15 @@
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Scala / sbt
+target/
+project/target/
+project/project/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
